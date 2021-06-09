@@ -1,0 +1,14 @@
+{
+	"id": "be9a76c7-7cd7-4e6d-a21c-fb9920a82d04",
+	"name": "Postman_Echo_study_env",
+	"values": [
+		{
+			"key": "url",
+			"value": "https://postman-echo.com",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2021-06-09T07:48:53.243Z",
+	"_postman_exported_using": "Postman/8.6.1"
+}
